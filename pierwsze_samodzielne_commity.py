@@ -3,7 +3,7 @@ a = "chleb"
 b = "bułki"
 c = "pączki"
 d = "marchew"
-e = "seler"
+e = "sałata"
 f = "rukola"
 lista_zakopow = {
     "piekarnia" : [a.capitalize(), b.capitalize(), c.capitalize()],
