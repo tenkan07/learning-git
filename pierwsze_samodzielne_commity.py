@@ -1,5 +1,5 @@
 print("Lista zakupów")
-a = "chleb"
+a = "bagieta"
 b = "bułki"
 c = "jagodzianka"
 d = "pietruszka"
