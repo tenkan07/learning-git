@@ -1,7 +1,7 @@
 print("Lista zakupów")
 a = "chleb"
 b = "bułki"
-c = "pączki"
+c = "jagodzianka"
 d = "pietruszka"
 e = "sałata"
 f = "rukola"
