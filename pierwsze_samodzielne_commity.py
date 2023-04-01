@@ -2,7 +2,7 @@ print("Lista zakupów")
 a = "chleb"
 b = "bułki"
 c = "pączki"
-d = "marchew"
+d = "pietruszka"
 e = "sałata"
 f = "rukola"
 lista_zakopow = {
